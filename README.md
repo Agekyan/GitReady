@@ -1,4 +1,4 @@
-# Project 0 Information - GitReady
+# Project 0 Information - GitReady (CS 2400)
 
 - **Full name:** [David Agekyan] (https://github.com/TemporaryUserGithub)
 - **GitHub Repo:** [https://github.com/TemporaryUserGithub/GitReady] (https://github.com/TemporaryUserGithub/GitReady)
@@ -7,7 +7,7 @@
 - **IDE:** Eclipse 2021 (for Java development IDE)
 
 # Rock, Scissors, Paper Game
-This Java program allows two players to play the classic game of Rock, Scissors, Paper. Players input their choices, and the program determines the winner based on the game rules. Developed by David for a CS1400 Project.
+This Java program allows two players to play the classic game of Rock, Scissors, Paper. Players input their choices, and the program determines the winner based on the game rules. Developed by David for a previous CS1400 Project.
 ## How to Play
 1. Compile the Java file.
 2. Run the compiled program.
