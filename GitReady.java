@@ -6,7 +6,7 @@ public class GitReady{
 	public static void main (String[] args){
 		// Created scanner object
 		Scanner scan = new Scanner(System.in);
-		// 
+		// Asks for user inputs
 		System.out.println("Player 1: Choose rock, scissors, or paper: ");
 		String player1 = scan.nextLine();
 		System.out.println("Player 2: Choose rock, scissors, or paper: ");
