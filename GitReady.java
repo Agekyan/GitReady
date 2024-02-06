@@ -13,7 +13,7 @@ public class GitReady{
 
 		// Prompting Player 2 to choose rock, scissors, or paper
 		System.out.println("Player 2: Choose rock, scissors, or paper: ");
-		String player2 = scan.nextLine()
+		String player2 = scan.nextLine();
 
 		// Checking if player1's choice is valid
 		boolean correct1 = ("rock".equalsIgnoreCase(player1)) || (("scissors".equalsIgnoreCase(player1)) ||
